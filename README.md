@@ -39,23 +39,5 @@ This dataset contains processed medical examination records for a group of patie
   - 1 = elevated (original values > 1)
 - Cleaned outliers in height, weight, and incorrect blood pressure entries (for heatmap).
 
----
 
-##  Visualizations
-
-###  Categorical Plot
-
-Shows the distribution of health risk factors (`cholesterol`, `gluc`, `smoke`, `alco`, `active`, `overweight`) for patients with and without cardiovascular disease.
-
-###  Correlation Heatmap
-
-Displays the correlations between all numerical variables after cleaning the data.
-
----
-
-## Running the Project
-
-```bash
-# Run the visualization
-python main.py
 

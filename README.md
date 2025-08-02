@@ -39,5 +39,10 @@ This dataset contains processed medical examination records for a group of patie
   - 1 = elevated (original values > 1)
 - Cleaned outliers in height, weight, and incorrect blood pressure entries (for heatmap).
 
+---
 
+## Project Preview
+
+![Medical Data Visualizer](catplot.png)
+![Medical Data Visualizer](heatmap.png)
 
